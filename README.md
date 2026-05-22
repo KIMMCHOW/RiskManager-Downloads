@@ -12,7 +12,7 @@
 
 | 版本 | DLL | 更新日志 | 发布说明 | README |
 | --- | --- | --- | --- | --- |
-| 4.2.1 | [DLL](正式版/4.2/RiskManager-4.2.1/RiskManager-4.2.1.dll) | - | [Release Notes](正式版/4.2/RiskManager-4.2.1/RELEASE_NOTES-4.2.1.md) | - |
+| 4.2.1 | [DLL](正式版/4.2/RiskManager-4.2.1/RiskManager-4.2.1.dll) | [Changelog](正式版/4.2/RiskManager-4.2.1/CHANGELOG-4.2.1.md) | [Release Notes](正式版/4.2/RiskManager-4.2.1/RELEASE_NOTES-4.2.1.md) | [README](正式版/4.2/RiskManager-4.2.1/README-4.2.1.md) |
 | 4.2.0 | [DLL](正式版/4.2/RiskManager-4.2.0/RiskManager-4.2.0.dll) | [Changelog](正式版/4.2/RiskManager-4.2.0/CHANGELOG-4.2.0.md) | [Release Notes](正式版/4.2/RiskManager-4.2.0/RELEASE_NOTES-4.2.0.md) | [README](正式版/4.2/RiskManager-4.2.0/README-4.2.0.md) |
 | 4.1.0 | [DLL](正式版/RiskManager-4.1.0/RiskManager-4.1.0.dll) | [Changelog](正式版/RiskManager-4.1.0/CHANGELOG-4.1.0.md) | [Release Notes](正式版/RiskManager-4.1.0/RELEASE_NOTES-4.1.0.md) | [README](正式版/RiskManager-4.1.0/README-4.1.0.md) |
 
