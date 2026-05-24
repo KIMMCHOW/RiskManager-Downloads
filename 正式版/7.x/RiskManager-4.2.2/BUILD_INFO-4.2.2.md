@@ -16,7 +16,7 @@ powershell.exe -ExecutionPolicy Bypass -File .\scripts\build-atas-versions.ps1 -
 ## Output
 
 ```text
-release-archive\正式版\7.x\RiskManager-4.2.2\RiskManager-4.2.2.dll
+release-archive\正式版\7.x\RiskManager-4.2.2\RiskManager-4.2.2-ATAS-7.x.dll
 ```
 
 ## Protection

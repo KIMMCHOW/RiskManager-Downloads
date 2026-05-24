@@ -7,13 +7,7 @@
 ## 下载文件
 
 ```text
-RiskManager-4.2.2.dll
-```
-
-## 安装位置
-
-```text
-%AppData%\ATAS\Strategies\
+RiskManager-4.2.2-ATAS-8.x.dll
 ```
 
 ## 注意事项

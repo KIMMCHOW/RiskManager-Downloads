@@ -2,14 +2,14 @@
 
 这里是 RiskManager 的公开下载仓库，面向使用者提供正式版 DLL、安装说明、使用教程和版本更新记录。本仓库不包含商业版源码。
 
-RiskManager 是用于 ATAS 的 Chart Strategy，主要用途是根据固定风险金额自动计算下单手数，并辅助提交入场单、止损单和可选 RR 止盈单。
+RiskManager 是用于 ATAS 的 Chart Strategy。它的主要用途是根据固定风险金额自动计算下单手数，并辅助提交入场单、止损单和可选 RR 止盈单。
 
 ## 快速下载
 
 | 推荐版本 | ATAS 版本 | DLL | 使用教程 | 发布说明 |
 | --- | --- | --- | --- | --- |
-| 4.2.2 | ATAS 8.x | [RiskManager-4.2.2.dll](正式版/8.x/RiskManager-4.2.2/RiskManager-4.2.2.dll) | [使用教程](docs/使用教程.md) | [发布说明](正式版/8.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) |
-| 4.2.2 | ATAS 7.x | [RiskManager-4.2.2.dll](正式版/7.x/RiskManager-4.2.2/RiskManager-4.2.2.dll) | [使用教程](docs/使用教程.md) | [发布说明](正式版/7.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) |
+| 4.2.2 | ATAS 8.x | [RiskManager-4.2.2-ATAS-8.x.dll](正式版/8.x/RiskManager-4.2.2/RiskManager-4.2.2-ATAS-8.x.dll) | [使用教程](docs/使用教程.md) | [发布说明](正式版/8.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) |
+| 4.2.2 | ATAS 7.x | [RiskManager-4.2.2-ATAS-7.x.dll](正式版/7.x/RiskManager-4.2.2/RiskManager-4.2.2-ATAS-7.x.dll) | [使用教程](docs/使用教程.md) | [发布说明](正式版/7.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) |
 
 请选择与自己 ATAS 大版本一致的 DLL。ATAS 7.x 和 ATAS 8.x 的 DLL 不能混用。
 
@@ -52,11 +52,10 @@ RiskManager 是用于 ATAS 的 Chart Strategy，主要用途是根据固定风�
 
 | 版本 | ATAS | DLL | 更新日志 | 发布说明 | 说明文件 | 构建信息 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 4.2.2 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.2/RiskManager-4.2.2.dll) | [更新日志](正式版/8.x/RiskManager-4.2.2/CHANGELOG-4.2.2.md) | [发布说明](正式版/8.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) | [说明文件](正式版/8.x/RiskManager-4.2.2/README-4.2.2.md) | [构建信息](正式版/8.x/RiskManager-4.2.2/BUILD_INFO-4.2.2.md) |
-| 4.2.2 | 7.x | [DLL](正式版/7.x/RiskManager-4.2.2/RiskManager-4.2.2.dll) | [更新日志](正式版/7.x/RiskManager-4.2.2/CHANGELOG-4.2.2.md) | [发布说明](正式版/7.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) | [说明文件](正式版/7.x/RiskManager-4.2.2/README-4.2.2.md) | [构建信息](正式版/7.x/RiskManager-4.2.2/BUILD_INFO-4.2.2.md) |
-| 4.2.1 | 4.2 旧归档 | [DLL](正式版/4.2/RiskManager-4.2.1/RiskManager-4.2.1.dll) | [更新日志](正式版/4.2/RiskManager-4.2.1/CHANGELOG-4.2.1.md) | [发布说明](正式版/4.2/RiskManager-4.2.1/RELEASE_NOTES-4.2.1.md) | [说明文件](正式版/4.2/RiskManager-4.2.1/README-4.2.1.md) | [构建信息](正式版/4.2/RiskManager-4.2.1/BUILD_INFO-4.2.1.md) |
-| 4.2.0 | 4.2 旧归档 | [DLL](正式版/4.2/RiskManager-4.2.0/RiskManager-4.2.0.dll) | [更新日志](正式版/4.2/RiskManager-4.2.0/CHANGELOG-4.2.0.md) | [发布说明](正式版/4.2/RiskManager-4.2.0/RELEASE_NOTES-4.2.0.md) | [说明文件](正式版/4.2/RiskManager-4.2.0/README-4.2.0.md) | [构建信息](正式版/4.2/RiskManager-4.2.0/BUILD_INFO-4.2.0.md) |
-| 4.1.0 | 旧归档 | [DLL](正式版/RiskManager-4.1.0/RiskManager-4.1.0.dll) | [更新日志](正式版/RiskManager-4.1.0/CHANGELOG-4.1.0.md) | [发布说明](正式版/RiskManager-4.1.0/RELEASE_NOTES-4.1.0.md) | [说明文件](正式版/RiskManager-4.1.0/README-4.1.0.md) | [构建信息](正式版/RiskManager-4.1.0/BUILD_INFO-4.1.0.md) |
+| 4.2.2 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.2/RiskManager-4.2.2-ATAS-8.x.dll) | [更新日志](正式版/8.x/RiskManager-4.2.2/CHANGELOG-4.2.2.md) | [发布说明](正式版/8.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) | [说明文件](正式版/8.x/RiskManager-4.2.2/README-4.2.2.md) | [构建信息](正式版/8.x/RiskManager-4.2.2/BUILD_INFO-4.2.2.md) |
+| 4.2.2 | 7.x | [DLL](正式版/7.x/RiskManager-4.2.2/RiskManager-4.2.2-ATAS-7.x.dll) | [更新日志](正式版/7.x/RiskManager-4.2.2/CHANGELOG-4.2.2.md) | [发布说明](正式版/7.x/RiskManager-4.2.2/RELEASE_NOTES-4.2.2.md) | [说明文件](正式版/7.x/RiskManager-4.2.2/README-4.2.2.md) | [构建信息](正式版/7.x/RiskManager-4.2.2/BUILD_INFO-4.2.2.md) |
+| 4.2.1 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.1/RiskManager-4.2.1-ATAS-8.x.dll) | [更新日志](正式版/8.x/RiskManager-4.2.1/CHANGELOG-4.2.1.md) | [发布说明](正式版/8.x/RiskManager-4.2.1/RELEASE_NOTES-4.2.1.md) | [说明文件](正式版/8.x/RiskManager-4.2.1/README-4.2.1.md) | [构建信息](正式版/8.x/RiskManager-4.2.1/BUILD_INFO-4.2.1.md) |
+| 4.2.0 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.0/RiskManager-4.2.0-ATAS-8.x.dll) | [更新日志](正式版/8.x/RiskManager-4.2.0/CHANGELOG-4.2.0.md) | [发布说明](正式版/8.x/RiskManager-4.2.0/RELEASE_NOTES-4.2.0.md) | [说明文件](正式版/8.x/RiskManager-4.2.0/README-4.2.0.md) | [构建信息](正式版/8.x/RiskManager-4.2.0/BUILD_INFO-4.2.0.md) |
 
 ## 常见问题
 

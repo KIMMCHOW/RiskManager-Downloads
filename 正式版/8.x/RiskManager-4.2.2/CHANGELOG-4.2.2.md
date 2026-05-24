@@ -14,4 +14,4 @@
 ## 兼容说明
 
 - 本 DLL 只用于 ATAS 8.x。
-- ATAS 7.x 请使用 `release-archive\正式版\7.x\RiskManager-4.2.2\RiskManager-4.2.2.dll`。
+- ATAS 7.x 请使用 `release-archive\正式版\7.x\RiskManager-4.2.2\RiskManager-4.2.2-ATAS-7.x.dll`。
