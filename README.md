@@ -16,9 +16,9 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
 
 | 推荐版本 / Recommended | ATAS 版本 / ATAS Version | DLL | 使用教程 / User Guide | 发布说明 / Release Notes |
 | --- | --- | --- | --- | --- |
-| 4.2.5 | ATAS X | [RiskManager-4.2.5-ATAS-X.dll](正式版/ATAS%20X/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-X.dll) | [使用教程 / User Guide](docs/使用教程.md) | [发布说明 / Release Notes](正式版/ATAS%20X/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) |
-| 4.2.5 | ATAS 8.x | [RiskManager-4.2.5-ATAS-8.x.dll](正式版/8.x/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-8.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [发布说明 / Release Notes](正式版/8.x/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) |
-| 4.2.5 | ATAS 7.x | [RiskManager-4.2.5-ATAS-7.x.dll](正式版/7.x/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-7.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [发布说明 / Release Notes](正式版/7.x/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) |
+| 4.6.0 | ATAS X | [RiskManager-4.6.0-ATAS-X.dll](正式版/ATAS%20X/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-X.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
+| 4.6.0 | ATAS 8.x | [RiskManager-4.6.0-ATAS-8.x.dll](正式版/8.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-8.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
+| 4.6.0 | ATAS 7.x | [RiskManager-4.6.0-ATAS-7.x.dll](正式版/7.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-7.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
 
 ## 安装方法 / Installation
 
@@ -44,7 +44,7 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
 
 - [完整使用教程 / Full User Guide](docs/使用教程.md)
 - [用户版更新日志 / User Changelog](docs/用户版更新日志.md)
-- [开源版 1.0 / Open-source 1.0: zhouzhen705/ATAS-RiskManager](https://github.com/zhouzhen705/ATAS-RiskManager)
+- [开源版 1.0 / Open-source 1.0: KIMMCHOW/ATAS-RiskManager](https://github.com/KIMMCHOW/ATAS-RiskManager)
 
 ## 核心功能 / Core Features
 
@@ -68,8 +68,8 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
   Risk preset buttons.
 - HUD 模块化显示和排序。
   Modular HUD display and ordering.
-- 中文 / 英文 HUD。
-  Chinese / English HUD.
+- HUD 与设置界面自动跟随 ATAS 界面语言（支持英文、简体中文、德语、西班牙语、法语、印地语、意大利语、日语、韩语、葡萄牙语、俄语）。
+  HUD and settings automatically follow the ATAS interface language (English, Simplified Chinese, German, Spanish, French, Hindi, Italian, Japanese, Korean, Portuguese, and Russian).
 - 授权码在线验证和本地授权缓存。
   Online license validation and local license cache.
 
@@ -77,6 +77,18 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
 
 | 版本 / Version | ATAS | DLL | 更新日志 / Changelog | 发布说明 / Release Notes | 说明文件 / README | 构建信息 / Build Info |
 | --- | --- | --- | --- | --- | --- | --- |
+| 4.6.0 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-X.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.6.0 | 8.x | [DLL](正式版/8.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-8.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.6.0 | 7.x | [DLL](正式版/7.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-7.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.5.0 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.5.0/RiskManager-4.5.0-ATAS-X.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.5.0 | 8.x | [DLL](正式版/8.x/RiskManager-4.5.0/RiskManager-4.5.0-ATAS-8.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.5.0 | 7.x | [DLL](正式版/7.x/RiskManager-4.5.0/RiskManager-4.5.0-ATAS-7.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.3.0 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.3.0/RiskManager-4.3.0-ATAS-X.dll) | — | — | — | — |
+| 4.3.0 | 8.x | [DLL](正式版/8.x/RiskManager-4.3.0/RiskManager-4.3.0-ATAS-8.x.dll) | — | — | — | — |
+| 4.3.0 | 7.x | [DLL](正式版/7.x/RiskManager-4.3.0/RiskManager-4.3.0-ATAS-7.x.dll) | — | — | — | — |
+| 4.2.6 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.2.6/RiskManager-4.2.6-ATAS-X.dll) | [更新日志 / Changelog](正式版/ATAS%20X/RiskManager-4.2.6/CHANGELOG-4.2.6.md) | [发布说明 / Release Notes](正式版/ATAS%20X/RiskManager-4.2.6/RELEASE_NOTES-4.2.6.md) | [说明文件 / README](正式版/ATAS%20X/RiskManager-4.2.6/README-4.2.6.md) | [构建信息 / Build Info](正式版/ATAS%20X/RiskManager-4.2.6/BUILD_INFO-4.2.6.md) |
+| 4.2.6 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.6/RiskManager-4.2.6-ATAS-8.x.dll) | [更新日志 / Changelog](正式版/8.x/RiskManager-4.2.6/CHANGELOG-4.2.6.md) | [发布说明 / Release Notes](正式版/8.x/RiskManager-4.2.6/RELEASE_NOTES-4.2.6.md) | [说明文件 / README](正式版/8.x/RiskManager-4.2.6/README-4.2.6.md) | [构建信息 / Build Info](正式版/8.x/RiskManager-4.2.6/BUILD_INFO-4.2.6.md) |
+| 4.2.6 | 7.x | [DLL](正式版/7.x/RiskManager-4.2.6/RiskManager-4.2.6-ATAS-7.x.dll) | [更新日志 / Changelog](正式版/7.x/RiskManager-4.2.6/CHANGELOG-4.2.6.md) | [发布说明 / Release Notes](正式版/7.x/RiskManager-4.2.6/RELEASE_NOTES-4.2.6.md) | [说明文件 / README](正式版/7.x/RiskManager-4.2.6/README-4.2.6.md) | [构建信息 / Build Info](正式版/7.x/RiskManager-4.2.6/BUILD_INFO-4.2.6.md) |
 | 4.2.5 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-X.dll) | [更新日志 / Changelog](正式版/ATAS%20X/RiskManager-4.2.5/CHANGELOG-4.2.5.md) | [发布说明 / Release Notes](正式版/ATAS%20X/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) | [说明文件 / README](正式版/ATAS%20X/RiskManager-4.2.5/README-4.2.5.md) | [构建信息 / Build Info](正式版/ATAS%20X/RiskManager-4.2.5/BUILD_INFO-4.2.5.md) |
 | 4.2.5 | 8.x | [DLL](正式版/8.x/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-8.x.dll) | [更新日志 / Changelog](正式版/8.x/RiskManager-4.2.5/CHANGELOG-4.2.5.md) | [发布说明 / Release Notes](正式版/8.x/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) | [说明文件 / README](正式版/8.x/RiskManager-4.2.5/README-4.2.5.md) | [构建信息 / Build Info](正式版/8.x/RiskManager-4.2.5/BUILD_INFO-4.2.5.md) |
 | 4.2.5 | 7.x | [DLL](正式版/7.x/RiskManager-4.2.5/RiskManager-4.2.5-ATAS-7.x.dll) | [更新日志 / Changelog](正式版/7.x/RiskManager-4.2.5/CHANGELOG-4.2.5.md) | [发布说明 / Release Notes](正式版/7.x/RiskManager-4.2.5/RELEASE_NOTES-4.2.5.md) | [说明文件 / README](正式版/7.x/RiskManager-4.2.5/README-4.2.5.md) | [构建信息 / Build Info](正式版/7.x/RiskManager-4.2.5/BUILD_INFO-4.2.5.md) |
@@ -99,9 +111,9 @@ If the HUD does not appear, check whether UI Style is set to HUD, whether the st
 
 If orders cannot be submitted, check the License Key, strategy activation state, trading account, current instrument, live market data, Tick Value, and the error message in the HUD status line.
 
-如果中文显示异常，可以在策略设置中将 HUD Language 改为 English。
+RiskManager 的界面文字跟随 ATAS 界面语言显示。如需切换语言，请在 ATAS 主窗口右上角点击个人资料图标并选择 Language，然后重启相关窗口。
 
-If Chinese text is displayed incorrectly, set HUD Language to English in the strategy settings.
+RiskManager text follows the ATAS interface language. To switch it, click the Profile icon in the upper-right corner of the main ATAS window, select Language, then restart the affected windows.
 
 ## 风险提示 / Risk Notice
 
