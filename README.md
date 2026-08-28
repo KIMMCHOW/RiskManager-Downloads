@@ -16,9 +16,9 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
 
 | 推荐版本 / Recommended | ATAS 版本 / ATAS Version | DLL | 使用教程 / User Guide | 发布说明 / Release Notes |
 | --- | --- | --- | --- | --- |
-| 4.6.0 | ATAS X | [RiskManager-4.6.0-ATAS-X.dll](正式版/ATAS%20X/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-X.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
-| 4.6.0 | ATAS 8.x | [RiskManager-4.6.0-ATAS-8.x.dll](正式版/8.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-8.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
-| 4.6.0 | ATAS 7.x | [RiskManager-4.6.0-ATAS-7.x.dll](正式版/7.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-7.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
+| 4.6.1 | ATAS X | [RiskManager-4.6.1-ATAS-X.dll](正式版/ATAS%20X/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-X.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
+| 4.6.1 | ATAS 8.x | [RiskManager-4.6.1-ATAS-8.x.dll](正式版/8.x/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-8.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
+| 4.6.1 | ATAS 7.x | [RiskManager-4.6.1-ATAS-7.x.dll](正式版/7.x/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-7.x.dll) | [使用教程 / User Guide](docs/使用教程.md) | [更新日志 / Changelog](docs/用户版更新日志.md) |
 
 ## 安装方法 / Installation
 
@@ -77,6 +77,9 @@ Choose the DLL that matches your ATAS version. DLLs for ATAS 7.x, ATAS 8.x, and 
 
 | 版本 / Version | ATAS | DLL | 更新日志 / Changelog | 发布说明 / Release Notes | 说明文件 / README | 构建信息 / Build Info |
 | --- | --- | --- | --- | --- | --- | --- |
+| 4.6.1 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-X.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.6.1 | 8.x | [DLL](正式版/8.x/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-8.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
+| 4.6.1 | 7.x | [DLL](正式版/7.x/RiskManager-4.6.1/RiskManager-4.6.1-ATAS-7.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
 | 4.6.0 | ATAS X | [DLL](正式版/ATAS%20X/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-X.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
 | 4.6.0 | 8.x | [DLL](正式版/8.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-8.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
 | 4.6.0 | 7.x | [DLL](正式版/7.x/RiskManager-4.6.0/RiskManager-4.6.0-ATAS-7.x.dll) | [更新日志 / Changelog](docs/用户版更新日志.md) | — | — | — |
